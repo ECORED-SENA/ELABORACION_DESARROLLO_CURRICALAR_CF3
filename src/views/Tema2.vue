@@ -192,18 +192,18 @@
           img(src='@/assets/template/tema-2-20.png', alt='Texto que describa la imagen')
         .col-3.position-absolute.bg-naranja.right.text-white(style='left:70%; top:-5%').p-3
           .h4 ¿Cómo enseñar?
-          p.text-small.mt-2 Facilitar y presentar los materiales de manera que se fomente el aprendizaje por descubrimiento
+          p.text-small.mt-2 Facilitar y presentar los materiales de manera que se fomente el aprendizaje por descubrimiento.
         .col-3.position-absolute.bg-naranja.right.text-white(style='left:70%; top:60%').p-3
           .h4 ¿Dónde enseñar?
-          p.text-small.mt-2 Cualquier espacio con estímulos que fomenten el aprendizaje Espacios que ayuden a conseguir los objetivos propuestos de manera satisfactoria
+          p.text-small.mt-2 Cualquier espacio con estímulos que fomenten el aprendizaje Espacios que ayuden a conseguir los objetivos propuestos de manera satisfactoria.
         .col-3.position-absolute.bg-naranja.left.text-white(style='left:3%; top:60%').p-3
           .h4 ¿Cuándo enseñar?
-          p.text-small.mt-2 Apostar por la flexibilidad de tiempos de aprendizaje
-          p.text-small.mt-2 Se deben tener en cuenta los ritmos de aprendizaje de los aprendices
+          p.text-small.mt-2 Apostar por la flexibilidad de tiempos de aprendizaje.
+          p.text-small.mt-2 Se deben tener en cuenta los ritmos de aprendizaje de los aprendices.
         .col-3.position-absolute.bg-naranja.left.text-white(style='left:3%; top:-5%').p-3
           .h4 ¿Qué enseñar?
-          p.text-small.mt-2 Contenidos basados en aprendizajes significativos
-          p.text-small.mt-2 Presentar contenidos de forma variada y atractiva 
+          p.text-small.mt-2 Contenidos basados en aprendizajes significativos.
+          p.text-small.mt-2 Presentar contenidos de forma variada y atractiva. 
       .col-10.offset-1.d-flex.d-lg-none
         .h3 METODOLOGÍAS ACTIVAS
         .h4.mt-3 ¿Cómo enseñar?
@@ -258,9 +258,9 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h3.mb-1.text-rojo Documento GFPI-AN-006
-                  p.text-small.text-sistema En el #[strong.text-sistema Anexo_Guia_sobre_estrategia_aprendizaje_basado_en_proyectos], puede ampliar la información sobre esta estrategia. Revíselo.  
+                  p.text-small.text-sistema En el #[strong.text-sistema Anexo Guia sobre estrategia aprendizaje basado en proyectos], puede ampliar la información sobre esta estrategia. Revíselo.  
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Anexo_Guia_sobre_estrategia_aprendizaje_basado_en_proyectos.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
     .row.mt-5.bg-amarillo-claro.p-5
@@ -268,13 +268,13 @@
         ul.lista-ul.mt-3
           li 
             i.fas.fa-angle-right
-            | Definición de un proyecto central
+            | Definición de un proyecto central.
           li 
             i.fas.fa-angle-right
-            | Focalización en habilidades y conocimientos importantes a partir del constructivismo
+            | Focalización en habilidades y conocimientos importantes a partir del constructivismo.
           li 
             i.fas.fa-angle-right
-            | Actividades dirigidas por preguntas, problemas o retos
+            | Actividades dirigidas por preguntas, problemas o retos.
         p.mt-4 Cabe precisar que el proyecto está fundamentado en un auténtico problema de la vida real o del sector productivo #[strong (Barron y Darling-Hammond, 2008)] y promueve el conflicto cognitivo como un  estímulo para alcanzar las metas de aprendizaje. El estímulo provee la activación de sus experiencias personales, razón a través de la cual el aprendiz se compromete en el ambiente de aprendizaje y en la comprensión, y así eventualmente el aprendiz adquiere y fortalece competencias #[strong (Villar, 2013).]
       .col-4.offset-4.offset-lg-0.px-4.align-self-center
         figure
@@ -308,7 +308,7 @@
             p Seguidamente, con la orientación del instructor, los aprendices elaboran una visualización gráfica, que sirve de mapa del proceso que llevarán a cabo para dar respuesta a las preguntas que originaron el proyecto. En esta etapa, las tecnologías son una herramienta útil para ilustrar la globalidad del proyecto, dado la diversidad de formatos que tiene.
           .tarjeta.p-3(x="50%" y="86%" numero="").bg-gris-claro
             .h5.mb-2 Ejecución de actividades
-            p Cuando los aprendices participan en la formulación de los propósitos y el diseño del plan, se comprometen en la ejecución de este.
+            p Después, se lleva a cabo la etapa de la ejecución de las actividades, precisando las tareas que abordarán los aprendices para el desarrollo del proyecto.
 
           .tarjeta.p-3(x="21.5%" y="74%" numero="").bg-gris-claro
             .h5.mb-2 Análisis de resultados
@@ -341,7 +341,7 @@
           li 
             i.fas.fa-angle-right
             | Promover una mayor responsabilidad en el aprendizaje propio.
-        p.mt-4 Por otra parte, de acuerdo con Martí et al. (2010), se precisa que el Aprendizaje Basado en Proyectos promueve:
+        p.mt-4 En conclusión, con la estrategia metodológica del Aprendizaje Basado en Proyectos, los aprendices responden a una pregunta y son guiados a través de un proceso de investigación bajo la supervisión del instructor (Bell, 2010). Es una estrategia que privilegia en los aprendices:
         ul.lista-ul.mt-3
           li 
             i.fas.fa-angle-right
@@ -414,11 +414,11 @@
               img(src='@/assets/template/tema-2-37.svg' alt='AvatarTop').img1.mt-5.mt-md-0
               .row.tarjeta.color-naranja3.w-100.position-absolute.bg-blanco.pt-1.align-items-center.d-flex.mt-lg-3
                 .text-center
-                  h3.text-center.mb-0 COMPETENCIAS 
-                  h3.text-center.mb-0 CLAVE
+                  h3.text-center.mb-0 ESTÁNDARES 
+                  h3.text-center.mb-0 DE APRENDIZAJE
               .tarjeta.color-naranja.w-100.position-absolute.pt-0.align-items-center.d-flex
                 .row.text-center.px-3
-                  p ¿Qué competencias claves desarrollas con tus estudiantes?
+                  p ¿Con qué estándares de aprendizaje evaluables del currículo oficial podemos relacionar los aprendizajes adquiridos?
           .col-10.col-md-6.col-lg-4.offset-1.offset-md-0.mt-5.mt-md-5.mt-lg-0
             .tarjeta-avatar(@mouseover="mostrarIndicador = false").position-relative.mt-5.mt-lg-0
               .indicador--click(v-if="mostrarIndicador")
@@ -426,11 +426,11 @@
               img(src='@/assets/template/tema-2-38.svg' alt='AvatarTop').img1.mt-5.mt-md-0
               .row.tarjeta.color-naranja3.w-100.position-absolute.bg-blanco.pt-1.align-items-center.d-flex.mt-lg-3
                 .text-center
-                  h3.text-center.mb-0 COMPETENCIAS 
-                  h3.text-center.mb-0 CLAVE
+                  h3.text-center.mb-0 MÉTODOS
+                  h3.text-center.mb-0 DE EVALUACIÓN
               .tarjeta.color-naranja.w-100.position-absolute.pt-0.align-items-center.d-flex
                 .row.text-center.px-3
-                  p ¿Qué competencias claves desarrollas con tus estudiantes?
+                  p ¿Qué herramientas y estrategias innovadoras de evaluación vamos a aplicar?
           .col-10.col-md-6.col-lg-4.offset-1.offset-md-0.mt-5.mt-lg-5
             .tarjeta-avatar(@mouseover="mostrarIndicador = false").position-relative.mt-5.mt-lg-5
               .indicador--click(v-if="mostrarIndicador")
@@ -438,11 +438,14 @@
               img(src='@/assets/template/tema-2-39.svg' alt='AvatarTop').img1.mt-5.mt-md-0
               .row.tarjeta.color-naranja3.w-100.position-absolute.bg-blanco.pt-1.align-items-center.d-flex
                 .text-center
-                  h3.text-center.mb-0 COMPETENCIAS 
-                  h3.text-center.mb-0 CLAVE
+                  h3.text-center.mb-0 PRODUCTO 
+                  h3.text-center.mb-0 FINAL
               .tarjeta.color-naranja.w-100.position-absolute.pt-0.align-items-center.d-flex
                 .row.text-center.px-3
-                  p ¿Qué competencias claves desarrollas con tus estudiantes?
+                  p ¿Qué queremos conseguir?
+                  p ¿Qué reto queremos resolver?
+                  p ¿A qué problema queremos dar solución?
+
           .col-10.col-md-6.col-lg-4.offset-1.offset-md-0.mt-5.mt-lg-5
             .tarjeta-avatar(@mouseover="mostrarIndicador = false").position-relative.mt-5.mt-lg-5
               .indicador--click(v-if="mostrarIndicador")
@@ -450,11 +453,10 @@
               img(src='@/assets/template/tema-2-40.svg' alt='AvatarTop').img1.mt-5.mt-md-0
               .row.tarjeta.color-naranja3.w-100.position-absolute.bg-blanco.pt-1.align-items-center.d-flex
                 .text-center
-                  h3.text-center.mb-0 COMPETENCIAS 
-                  h3.text-center.mb-0 CLAVE
+                  h3.text-center.mb-0 TAREAS
               .tarjeta.color-naranja.w-100.position-absolute.pt-0.align-items-center.d-flex
                 .row.text-center.px-3
-                  p ¿Qué competencias claves desarrollas con tus estudiantes?
+                  p ¿Qué tenemos que hacer para alcanzar el producto final?
           .col-10.col-md-6.col-lg-4.offset-1.offset-md-0.mt-5.mt-lg-5
             .tarjeta-avatar(@mouseover="mostrarIndicador = false").position-relative.mt-5.mt-lg-5
               .indicador--click(v-if="mostrarIndicador")
@@ -462,11 +464,10 @@
               img(src='@/assets/template/tema-2-41.svg' alt='AvatarTop').img1.mt-5.mt-md-0
               .row.tarjeta.color-naranja3.w-100.position-absolute.bg-blanco.pt-1.align-items-center.d-flex
                 .text-center
-                  h3.text-center.mb-0 COMPETENCIAS 
-                  h3.text-center.mb-0 CLAVE
+                  h3.text-center.mb-0 DIFUSIÓN
               .tarjeta.color-naranja.w-100.position-absolute.pt-0.align-items-center.d-flex
                 .row.text-center.px-3
-                  p ¿Qué competencias claves desarrollas con tus estudiantes?
+                  p ¿Cómo vamos a difundir nuestro proyecto?
           .col-10.col-md-6.col-lg-4.offset-1.offset-md-0.mt-5.mt-lg-5.last
             .tarjeta-avatar(@mouseover="mostrarIndicador = false").position-relative.mt-5.mt-lg-5
               .indicador--click(v-if="mostrarIndicador")
@@ -474,11 +475,12 @@
               img(src='@/assets/template/tema-2-42.svg' alt='AvatarTop').img1.mt-5.mt-md-0.mt-lg-3
               .row.tarjeta.color-naranja3.w-100.position-absolute.bg-blanco.pt-1.align-items-center.d-flex
                 .text-center
-                  h3.text-center.mb-0 COMPETENCIAS 
-                  h3.text-center.mb-0 CLAVE
+                  h3.text-center.mb-0 RECURSOS
               .tarjeta.color-naranja.w-100.position-absolute.pt-0.align-items-center.d-flex
                 .row.text-center.px-3
-                  p ¿Qué competencias claves desarrollas con tus estudiantes?
+                  p ¿Qué personas deben implicarse: docentes, padres de familia, otros agentes educativos?
+                  p ¿Qué otros materiales son necesarios?
+                  p  ¿Es necesario algún tipo de instalación especial?
           .col-10.col-md-6.col-lg-4.offset-1.offset-md-0.mt-5.mt-lg-5.last
             .tarjeta-avatar(@mouseover="mostrarIndicador = false").position-relative.mt-5.mt-lg-5
               .indicador--click(v-if="mostrarIndicador")
@@ -486,11 +488,14 @@
               img(src='@/assets/template/tema-2-43.svg' alt='AvatarTop').img1.mt-5.mt-md-0.mt-lg-3
               .row.tarjeta.color-naranja3.w-100.position-absolute.bg-blanco.pt-1.align-items-center.d-flex
                 .text-center
-                  h3.text-center.mb-0 COMPETENCIAS 
-                  h3.text-center.mb-0 CLAVE
+                  h3.text-center.mb-0 HERRAMIENTAS 
+                  h3.text-center.mb-0 TIC
               .tarjeta.color-naranja.w-100.position-absolute.pt-0.align-items-center.d-flex
                 .row.text-center.px-3
-                  p ¿Qué competencias claves desarrollas con tus estudiantes?
+                  p ¿Qué apps y herramientas TIC necesitamos?
+                  p ¿Qué servicios web vamos a usar?
+                  p ¿Podemos vincularnos con las tareas?
+
           .col-10.col-md-6.col-lg-4.offset-1.offset-md-0.mt-5.mt-lg-5.last
             .tarjeta-avatar(@mouseover="mostrarIndicador = false").position-relative.mt-5.mt-lg-5
               .indicador--click(v-if="mostrarIndicador")
@@ -498,11 +503,13 @@
               img(src='@/assets/template/tema-2-44.svg' alt='AvatarTop').img1.mt-5.mt-md-0.mt-lg-3
               .row.tarjeta.color-naranja3.w-100.position-absolute.bg-blanco.pt-1.align-items-center.d-flex
                 .text-center
-                  h3.text-center.mb-0 COMPETENCIAS 
-                  h3.text-center.mb-0 CLAVE
+                  h3.text-center.mb-0 AGRUPAMIENTOS / 
+                  h3.text-center.mb-0 ORGANIZACIÓN
               .tarjeta.color-naranja.w-100.position-absolute.pt-0.align-items-center.d-flex
                 .row.text-center.px-3
-                  p ¿Qué competencias claves desarrollas con tus estudiantes?
+                  p ¿Cómo se van a agrupar los estudiantes?
+                  p ¿Cómo vamos a organizar el aula?
+
     figcaption Referencia Nota. Tomada de Conecta13
     .row.mt-5
       .col-5.d-none.d-lg-flex.align-self-center
@@ -520,16 +527,17 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h3.mb-1.text-rojo Documento GFPI-AN-006
-                  p.text-small.text-sistema En el #[strong.text-sistema Anexo_Guia_sobre_estrategia_aprendizaje_basado_en_proyectos], puede ampliar la información sobre esta estrategia. Revíselo.  
+                  p.text-small.text-sistema En el #[strong.text-sistema anexo ejemplo de implementacion aprendizaje basado en proyectos], puede ampliar la información sobre esta estrategia. Revíselo.  
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Anexo_Ejemplo_de_implementacion_Aprendizaje_Basado_en_Proyectos.pdf')" target="_blank")
                     span Descargar
+    .h3 Aprendizaje Basado en Problemas
     .row.mt-5
       .col-2.col-xl-1.d-none.d-lg-flex.align-self-center
         figure
           img(src='@/assets/template/tema-2-55.svg', alt='Texto que describa la imagen').px-3.px-xl-0.floating
       .col-12.col-lg-10
-        p aprendices un problema no estructurado que se debe resolver; por lo general, se presenta a través de un estudio de caso. Sus mayores desarrollos han sido en el campo de la enseñanza en el área de la salud #[strong (Castillo, 2003)]. A continuación, se puede revisar un ejemplo de cómo organizarlo.
+        p El Aprendizaje Basado en Problemas es una aproximación pedagógica que presenta a los aprendices un problema no estructurado que se debe resolver; por lo general, se presenta a través de un estudio de caso. Sus mayores desarrollos han sido en el campo de la enseñanza en el área de la salud #[strong (Castillo, 2003)]. A continuación, se puede revisar un ejemplo de cómo organizarlo.
     .row.mt-5
       .col-12.col-lg-7
         p Un pequeño grupo de apéndices trabaja con el instructor sobre problemas, por periodos cortos de tiempo, alrededor de tres sesiones de clase. En la primera semana, revisan los casos nuevos y analizan los datos con la guía del instructor, toman decisiones sobre qué problema trabajar y distribuyen las tareas para proponer la solución. En la siguiente semana, comparten sus análisis, reciben información adicional del instructor y continúan su investigación. En la última semana, los aprendices traen la conclusión del caso, reúne los análisis colectivos y preparan el informe final. 
@@ -556,9 +564,9 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h3.mb-1.text-rojo Documento GFPI-AN-006
-                  p.text-small.text-sistema En el #[strong.text-sistema Anexo_Guia_sobre_estrategia_aprendizaje_basado_en_proyectos], puede ampliar la información sobre esta estrategia. Revíselo.  
+                  p.text-small.text-sistema En el #[strong.text-sistema Anexo Guia sobre estrategia aprendizaje basado en problemas], puede ampliar la información sobre esta estrategia. Revíselo.  
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Anexo_Guia_sobre_estrategia_aprendizaje_basado_en_problemas.pdf')" target="_blank")
                     span Descargar
     .row.mt-5
       .col-5.d-none.d-lg-flex.align-self-center
@@ -774,14 +782,13 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h3.mb-1.text-sistema Estrategia aprendizaje basado en casos
-                  p.text-small.text-sistema Finalmente, en el #[strong.text-sistema Anexo_Guia_sobre_estrategia_aprendizaje_basado_en_casos], puede ampliar la información sobre esta estrategia. Revíselo.  
+                  p.text-small.text-sistema Finalmente, en el #[strong.text-sistema Anexo Guia sobre estrategia aprendizaje basado en casos], puede ampliar la información sobre esta estrategia. Revíselo.  
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Anexo_Guia_sobre_estrategia_aprendizaje_basado_en_casos.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
     .row.mt-5.bg-amarillo-claro.p-5
       .col-12.col-lg-7.align-self-center
-        .h4 Aprendizaje Basado en Retos
         p.mt-3 También se cuenta como una metodología de aprendizaje activo, la cual se caracteriza por:
         ul.lista-ul.mt-4
           li 
@@ -816,21 +823,7 @@
           )
           .bloque-texto-g__texto.p-4
             p.mb-0 El Aprendizaje Basado en Retos es una estrategia apropiada para la enseñanza en el área de ingeniería y afines; en particular, en situaciones de impacto global, como el desarrollo sostenible o el cambio climático, permite a los estudiantes proponer soluciones innovadoras y hacer transferencia de conocimiento a contextos reales. A partir de esta estrategia, los aprendices desarrollan habilidades y competencias profesionales, enfrentándose a situaciones reales #[strong (Membrillo-Hernández et al., 2018; Olivares et al., 2018).]
-    .row.mt-5(data-aos="slide-left")
-      .col-10.offset-1
-        .tarjeta.color-primario.p-3.mb-5.bg-amarillo-degradado
-          .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/template/tema-2-76.svg")
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  h3.mb-1.text-sistema Estrategia aprendizaje basado en casos
-                  p.text-small.text-sistema Finalmente, en el #[strong.text-sistema Anexo_Guia_sobre_estrategia_aprendizaje_basado_en_casos], puede ampliar la información sobre esta estrategia. Revíselo.  
-                .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
-                    span Descargar
-                    i.fas.fa-file-download
+    
     
 
 

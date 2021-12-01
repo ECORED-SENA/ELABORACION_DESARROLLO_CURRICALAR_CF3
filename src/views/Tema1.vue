@@ -169,7 +169,7 @@
 
         
     .titulo-segundo.color-primario.no-mt-md
-      #t_1_2.h2 1.2  Métodos didácticos
+      #t_1_2.h2 1.2 Técnicas didácticas
     figure(data-aos="zoom-in")
       img(src='@/assets/template/tema-1-10.png', alt='Texto que describa la imagen')
     .row.mt-5
@@ -177,7 +177,7 @@
         figure
           img(src='@/assets/template/tema-1-11.svg', alt='Texto que describa la imagen').px-3.px-xl-0.floating
       .col-12.col-lg-10
-        p Son aplicados por el instructor en el proceso de formación y responden a la pregunta ¿Cómo organizar e impartir la instrucción?, para lograr el aprendizaje. A continuación, se presentan los principales métodos de enseñanza que se utilizan; pero es importante aclarar que existen muchos más de acuerdo con las disciplinas y campos de conocimiento:
+        p Son los componentes funcionales de los métodos que permiten responder a la pregunta ¿Cómo proceder en cada momento de la clase?; es decir, es la forma de poner en marcha la formación. A continuación, se presentan las más utilizadas para la formación técnica y tecnológica profesional de los futuros aprendices SENA para el siglo XXI; en otros apartados de este componente, se explican de manera detallada estos aprendizajes:
     .row.mt-5
       .col-10.col-lg-6
         .nav-holder.align-items-center(data-aos="flip-up")
@@ -232,7 +232,7 @@
       .col-10.offset-1.mt-5
         .titulo-sexto.color-primario
           h5 Tabla
-          span Clasificación de la FPI  
+          span Ejemplo de secuencia didáctica  
     .tabla-a.color-primario.mt-5(data-aos="fade") 
       table
         caption.mt-3 Nota: Tomada de SENA (2019)
@@ -244,7 +244,7 @@
             th Tipos de actividades
         tbody
           tr.bg-gris-claro
-            th INICIAL Anticipar y Sensibilizar
+            th INICIAR Anticipar y Sensibilizar
             td Diagnóstico
             td Averiguar los conocimientos previos
             td 
