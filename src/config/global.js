@@ -177,7 +177,8 @@ export default {
     {
       referencia:
         'Membrillo-Hernández, J., Ramírez-Cadena, M., Caballero-Valdés, C., Ganem-Corvera, R., Bustamante-Bello, R., Ordoñez-Díaz, J. y Elizalde, H. (2018). Challenge-based Learning: The Case of Sustainable Development Engineering at the Tecnológico de Monterrey, Mexico City Campus. International Journal of Engineering Pedagogy, 8(3), p. 137-144.',
-      link: 'https://doi.org/10.3991/ijep.v8i3.8007',
+      link:
+        'https://www.researchgate.net/publication/320271430_Challenge_base_learning_The_case_of_Sustainable_Development_Engineering_at_the_Monterrey_Institute_of_Technology_and_Higher_Education_Mexico_City_Campus',
     },
     {
       referencia:
@@ -274,20 +275,36 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Hernán Darío Córdoba Escobar',
-        cargo: 'Instructor Experto en Pedagogía',
+        nombre: 'Alexandra Hoyos Figueroa',
+        cargo: 'Profesional de diseño y desarrollo curricular',
         centro:
-          'Regional Antioquia - Centro para el Desarrollo de Hábitat y la Construcción',
+          'Centro para el Desarrollo de Hábitat y la Construcción -Regional Antioquia',
+      },
+      {
+        nombre: 'Hernán Darío Córdoba Escobar',
+        cargo: 'Instructor experto en pedagogía',
+        centro:
+          'Centro para el Desarrollo de Hábitat y la Construcción - Regional Antioquia',
       },
       {
         nombre: 'María Cristina Hurtado Zúñiga',
-        cargo: 'Instructora Experta Temática',
-        centro: 'Regional Valle - Centro de Desarrollo Tecnológico Industrial',
+        cargo: 'Instructora experta temática',
+        centro: 'Centro de Desarrollo Tecnológico Industrial - Regional Valle',
+      },
+      {
+        nombre: 'Alix Cecilia Chinchilla Rueda',
+        cargo: 'Diseñadora instruccional',
+        centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
       },
       {
         nombre: 'Andrés Felipe Velandia Espitia',
         cargo: 'Revisor Metodológico y Pedagógico',
-        centro: 'Regional Distrito Capital – Centro de Diseño y Metrología',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+      },
+      {
+        nombre: 'Darío González',
+        cargo: 'Corrección de estilo',
+        centro: 'Centro Agropecuario La Granja - Regional Tolima',
       },
     ],
     desarrolloProducto: [
@@ -298,20 +315,57 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Alexandra Hoyos Figueroa',
-        cargo: 'Profesional de Diseño y Desarrollo Curricular',
+        nombre: 'Leyson Fabian Castaño Perez',
+        cargo: 'Soporte organizacional',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
+      {
+        nombre: 'Luis Fernando Sarmiento Betancourth',
+        cargo: 'Diseño web',
         centro:
-          'Regional Antioquia - Centro para el Desarrollo de Hábitat y la Construcción ',
+          'Centro Industrial del Diseño y la Manufactura  - Regional Santander',
       },
       {
-        nombre: 'Alix Cecilia Chinchilla Rueda',
-        cargo: 'Diseñadora Instruccional',
-        centro: 'Regional Distrito Capital – Centro de Gestión Industrial',
+        nombre: 'Camilo Villamizar Lizcano',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura  - Regional Santander',
       },
       {
-        nombre: 'Darío González',
-        cargo: 'Corrección de estilo',
-        centro: 'Regional Tolima – Centro Agropecuario La Granja',
+        nombre: 'Gilberto Junior Rodríguez Rodríguez',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura  - Regional Santander',
+      },
+
+      {
+        nombre: 'María Carolina Tamayo López',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura  - Regional Santander',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Cáceres',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura  - Regional Santander',
+      },
+      {
+        nombre: 'Zuleidy Maria Ruiz Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Regional Tolima - Centro de Comercio y Servicios',
+      },
+      {
+        nombre: 'Lizeth Karina Manchego Suárez',
+        cargo: 'Desarrollo front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura  - Regional Santander',
+      },
+      {
+        nombre: 'Yuli Marcela Gómez Tarazona',
+        cargo: 'Validación de diseño y contenido',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura  - Regional Santander',
       },
     ],
     gestoresRepositorio: [
