@@ -238,7 +238,7 @@ export default {
     {
       texto: 'SENA. (2020, julio). Guía de desarrollo curricular.',
       tipo: 'Documento',
-      link: '/downloads/GFPI-G-012_Guia_Desarrollo_Curricular.pdf',
+      descarga: '/downloads/GFPI-G-012_Guia_Desarrollo_Curricular.pdf',
     },
     {
       texto: 'OIT. (s. f.). Marcos de cualificaciones. OIT/Cinterfor.',
