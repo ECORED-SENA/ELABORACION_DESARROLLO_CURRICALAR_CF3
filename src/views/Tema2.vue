@@ -25,7 +25,7 @@
         .row
           .col-12.col-lg-7
             .h3 Teoría triárquica de la inteligencia
-            p.mt-3 Su teoría triárquica de la inteligencia ésta integrada por tres dimensiones: la componencial, que hace referencia a los mecanismos cognitivos que nos permiten aprender y desarrollar tareas inteligentes; la experiencial, que nos permite abordar una nueva tarea o situación dándole una respuesta adecuada; y la contextual, de tipo práctico o social, que explica la adaptación al ambiente y es útil para resolver problemas cotidianos.
+            p.mt-3 Su teoría triárquica de la inteligencia esta integrada por tres dimensiones: la componencial, que hace referencia a los mecanismos cognitivos que nos permiten aprender y desarrollar tareas inteligentes; la experiencial, que nos permite abordar una nueva tarea o situación dándole una respuesta adecuada; y la contextual, de tipo práctico o social, que explica la adaptación al ambiente y es útil para resolver problemas cotidianos.
           .col-5.d-none.d-lg-flex.px-5
             figure  
               img(src='@/assets/template/tema-2-10.svg', alt='Texto que describa la imagen').px-3            
@@ -170,7 +170,7 @@
           .bloque-texto-b.color-acento-botones.p-4
             .bloque-texto-b__texto
               i.fas.fa-quote-left
-              h3.mb-0 Escuela Nueva’ o ‘Nueva Educación’, creado por el pedagogo suizo Adolphe Ferrière, quien propuso un cambio en la escuela tradicional y planteó la enseñanza en una escuela para la vida, es decir, que los aprendices son el centro del proceso de enseñanza-aprendizaje, los convierte en sujetos activos del proceso, buscando que adquieran los conocimientos de manera autónoma y significativa y garantizando su vinculación a la vida laboral activa.
+              h3.mb-0 ‘Escuela Nueva’ o ‘Nueva Educación’, creado por el pedagogo suizo Adolphe Ferrière, quien propuso un cambio en la escuela tradicional y planteó la enseñanza en una escuela para la vida, es decir, que los aprendices son el centro del proceso de enseñanza-aprendizaje, los convierte en sujetos activos del proceso, buscando que adquieran los conocimientos de manera autónoma y significativa y garantizando su vinculación a la vida laboral activa.
               i.fas.fa-quote-right
       .col-6.col-lg-5.offset-3.offset-lg-0.align-self-center
         figure
@@ -195,7 +195,7 @@
           p.text-small.mt-2 Facilitar y presentar los materiales de manera que se fomente el aprendizaje por descubrimiento.
         .col-3.position-absolute.bg-naranja.right.text-white(style='left:70%; top:60%').p-3
           .h4 ¿Dónde enseñar?
-          p.text-small.mt-2 Cualquier espacio con estímulos que fomenten el aprendizaje Espacios que ayuden a conseguir los objetivos propuestos de manera satisfactoria.
+          p.text-small.mt-2 Cualquier espacio con estímulos que fomenten el aprendizaje. Espacios que ayuden a conseguir los objetivos propuestos de manera satisfactoria.
         .col-3.position-absolute.bg-naranja.left.text-white(style='left:3%; top:60%').p-3
           .h4 ¿Cuándo enseñar?
           p.text-small.mt-2 Apostar por la flexibilidad de tiempos de aprendizaje.
@@ -213,7 +213,7 @@
             | Facilitar y presentar los materiales de manera que se fomente el aprendizaje por descubrimiento
           li 
             i.fas.fa-angle-right
-            p Cualquier espacio con estímulos que fomenten el aprendizaje Espacios que ayuden a conseguir los objetivos propuestos de manera satisfactoria
+            p Cualquier espacio con estímulos que fomenten el aprendizaje. Espacios que ayuden a conseguir los objetivos propuestos de manera satisfactoria
             p Espacios que ayuden a conseguir los objetivos propuestos de manera satisfactoria
           li 
             i.fas.fa-angle-right
@@ -224,7 +224,8 @@
             p #[strong Contenidos] Basados en aprendizajes significativos
             p.mt-2 #[strong Presentar] Contenidos de forma variada y atractiva
     p.mt-5 Existen diferentes tipos de metodologías activas, entre las que se pueden encontrar el Aprendizaje Basado en Problemas o Proyectos (ABP), el Aprendizaje Basado en Lecciones (ABL) o Retos, entre otros.
-    .h3.mt-3 Aprendizajes ABP, ABL, ABC, ABR
+    .titulo-segundo.mt-5.color-primario
+      #t_2_2.h2 2.2 Aprendizajes ABP, ABL, ABC, ABR
     .row.mt-4
       .col-5.d-none.d-lg-flex.align-self-center
         figure  
@@ -232,7 +233,7 @@
       .col-12.col-lg-7
         p El enfoque por competencias exige, a quienes median el proceso aprendizaje, ser innovadores en el diseño y la operacionalización de situaciones didácticas. Es decir, se deben establecer metodologías que garanticen el protagonismo del aprendiz en el aprendizaje; haciendo que este sea más autónomo y participativo. En ese sentido, se debe considerar el fomento del trabajo en equipo e incentivar procesos competenciales de nivel superior, como el sentido crítico e innovador, dejando a un lado los procesos memorísticos o de repetición de los contenidos.
         p.mt-3 Entre las principales metodologías de este tipo, se encuentran el aprendizaje basado en proyectos, el aprendizaje basado en la resolución de problemas y el aprendizaje a través de la técnica de casos.
-    .h3 Aprendizaje Basado en Proyectos (ABP)
+    .h3.mt-5 Aprendizaje Basado en Proyectos (ABP)
     .row.mt-5
       .col-12.col-lg-7
         p El aprendizaje basado en proyectos ha sido influenciado por la teoría del aprendizaje constructivista, mirada filosófica del conocimiento como una construcción individual a través de la interacción con el ambiente y se desarrolla socialmente. 
@@ -417,8 +418,8 @@
                   h3.text-center.mb-0 ESTÁNDARES 
                   h3.text-center.mb-0 DE APRENDIZAJE
               .tarjeta.color-naranja.w-100.position-absolute.pt-0.align-items-center.d-flex
-                .row.text-center.px-3
-                  p ¿Con qué estándares de aprendizaje evaluables del currículo oficial podemos relacionar los aprendizajes adquiridos?
+                .row.text-center.px-3.text-small
+                  p.mt-5 ¿Con qué estándares de aprendizaje evaluables del currículo oficial podemos relacionar los aprendizajes adquiridos?
           .col-10.col-md-6.col-lg-4.offset-1.offset-md-0.mt-5.mt-md-5.mt-lg-0
             .tarjeta-avatar(@mouseover="mostrarIndicador = false").position-relative.mt-5.mt-lg-0
               .indicador--click(v-if="mostrarIndicador")
@@ -477,8 +478,8 @@
                 .text-center
                   h3.text-center.mb-0 RECURSOS
               .tarjeta.color-naranja.w-100.position-absolute.pt-0.align-items-center.d-flex
-                .row.text-center.px-3
-                  p ¿Qué personas deben implicarse: docentes, padres de familia, otros agentes educativos?
+                .row.text-center.px-3.text-small
+                  p.mt-5 ¿Qué personas deben implicarse: docentes, padres de familia, otros agentes educativos?
                   p ¿Qué otros materiales son necesarios?
                   p  ¿Es necesario algún tipo de instalación especial?
           .col-10.col-md-6.col-lg-4.offset-1.offset-md-0.mt-5.mt-lg-5.last
@@ -729,9 +730,9 @@
             :style="{'background-image': `url(${require('@/assets/template/tema-2-67.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 Contexto:
-            .h4.mt-3 “Manejo de residuos domésticos”
-            p.mt-3 El ciudadano urbano que habita en las grandes ciudades ha perdido la noción y la sensibilidad de saber hacia dónde se van todos los residuos que genera, de manera constante, en el desarrollo de sus actividades cotidianas. Tanto adultos como niños viven aislados del origen, producción y distribución de los productos de uso diario y, asimismo, de su destino final al término de su vida útil o al momento de desecharlos; a esto se le llama analfabetismo tecnológico. Esta actividad busca alfabetizar al ciudadano del común en estos aspectos vitales para su supervivencia y la de las próximas generaciones. Desde la educación STEM, se recomienda trabajar el proyecto con las áreas de ciencias y tecnología.
+            p.mb-0 Contexto: 
+            .h4.mt-3 “Manejo de residuos domésticos”. 
+            p.mt-3  El ciudadano urbano que habita en las grandes ciudades ha perdido la noción y la sensibilidad de saber hacia dónde se van todos los residuos que genera, de manera constante, en el desarrollo de sus actividades cotidianas. Tanto adultos como niños viven aislados del origen, producción y distribución de los productos de uso diario y, asimismo, de su destino final al término de su vida útil o al momento de desecharlos; a esto se le llama analfabetismo tecnológico. Esta actividad busca alfabetizar al ciudadano del común en estos aspectos vitales para su supervivencia y la de las próximas generaciones. Desde la educación STEM, se recomienda trabajar el proyecto con las áreas de ciencias y tecnología.
     p.mt-5 A partir del contexto, se presenta la actividad que se implementó a partir de la pregunta orientadora o problema:
     .row.mt-5.overflow-y-hidden(data-aos="flip-up")
       .col-10.offset-1
@@ -741,7 +742,7 @@
               figure
                 img(src='@/assets/template/tema-2-68.svg', alt='Texto que describa la imagen')
             .col-12.col-lg-9
-              p ¿Qué pasa con los desechos que pongo en el bote de la basura?z
+              p ¿Qué pasa con los desechos que pongo en el bote de la basura?
           .row(numero="2" titulo="Objetivos de aprendizaje")
             .col-2.px-xl-4.d-none.d-lg-flex
               figure

@@ -74,7 +74,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '2.2',
-            titulo: 'Aprendizajes ABP, ABL, ABC',
+            titulo: 'Aprendizajes ABP, ABL, ABC, ABR',
             hash: 't_2_2',
           },
         ],
@@ -141,12 +141,6 @@ export default {
       referencia:
         'Bell, S. (2010). Project-Based Learning for the 21st Century: Skills for the Future. The Clearing House, 83(2), p. 39-43.',
       link: 'https://doi.org/10.1080/00098650903505415',
-    },
-    {
-      referencia:
-        'Bradley-Levine, J., Berghoff, B., Seybold, J., Sever, R., Blackwell, S. y Smiley, A. (2010). What teachers and administrators “need to know” about project-based learning implementation. Annual Meeting of the American Educational Research Association.',
-      link:
-        'https://www.dr-hatfield.com/science_rules/articles/WHAT%20TEACHERS%20AND%20ADMINISTRATORS%20NEED%20TO%20KNOW%20ABOUT.pdf',
     },
     {
       referencia:
@@ -225,7 +219,7 @@ export default {
         'Procedimiento mediante el cual se planea, diseña y ejecuta la ruta de aprendizaje de cada aprendiz, mediante proyectos formativos y planeación pedagógica; contiene actividades de aprendizaje y aplicación de técnicas didácticas activas que permiten desarrollar las competencias con ritmos de aprendizaje personalizados.',
     },
     {
-      termino: 'Habilidades cognitivas ',
+      termino: 'Habilidades cognitivas',
       significado:
         'Aptitudes del ser humano relacionadas con el procesamiento de la información, es decir, que implican el uso de la memoria, la atención, la percepción, la creatividad y el pensamiento abstracto o analógico.',
     },
@@ -244,8 +238,7 @@ export default {
     {
       texto: 'SENA. (2020, julio). Guía de desarrollo curricular.',
       tipo: 'Documento',
-      link:
-        'https://compromiso.sena.edu.co/documentos/vista/descarga.php?id=2825',
+      link: '/downloads/GFPI-G-012_Guia_Desarrollo_Curricular.pdf',
     },
     {
       texto: 'OIT. (s. f.). Marcos de cualificaciones. OIT/Cinterfor.',
